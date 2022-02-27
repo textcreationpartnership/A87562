@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Mary Aldermanbury, on the 5. day of November, 1651. Being a day set apart in remembrance of that great deliverance from the gunpowder treason. By William Jenkins, sometimes minister of Christ-Church London, and late prisoner in the Tower. Being the first sermon he preached since his releasement. Published by speciall authority.</title>
+            <author>Jenkyn, William, 1613-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87562</idno>
+            <idno type="STC">Wing J651</idno>
+            <idno type="STC">Thomason E791_2</idno>
+            <idno type="STC">ESTC R207325</idno>
+            <idno type="EEBO-CITATION">99866382</idno>
+            <idno type="PROQUEST">99866382</idno>
+            <idno type="VID">118654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118654)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 121:E791[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Mary Aldermanbury, on the 5. day of November, 1651. Being a day set apart in remembrance of that great deliverance from the gunpowder treason. By William Jenkins, sometimes minister of Christ-Church London, and late prisoner in the Tower. Being the first sermon he preached since his releasement. Published by speciall authority.</title>
+                  <author>Jenkyn, William, 1613-1685.</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Wood, for G. Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 6 misnumbered 8.</note>
+                  <note>Text continuous despite pagination and incorrect catchword on A2.</note>
+                  <note>Annotation on Thomason copy: "[illegible] hand by [illegible] Rev."; "[illegible] 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Deuteronomy XXXII, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Gunpowder Plot, 1605 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118654:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at MARY ALDERMANBURY, ON The 5. Day of NOVEMBER, 1651.</p>
+            <p>Being a Day ſet apart in remembrance of that Great Deliverance from the Gunpowder Treaſon.</p>
+            <p>By WILLIAM JENKINS, ſometimes Miniſter of Chriſt-Church <hi>London,</hi> and late Priſoner in the Tower.</p>
+            <p>Being the firſt Sermon he Preached ſince his Releaſement.</p>
+            <q>
+               <bibl>
+                  <hi>Phil. 2.21.</hi>
+               </bibl>
+               <p>For me to live is Chriſt, and to dye is gain.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 6.20.</hi>
+               </bibl>
+               <p>For yee are bought with a price: therefore glorifie God in your body, and in your ſpirit, which are Gods.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>S. Chriſ. Homil. 5. in Ep. ad Rom.</hi>
+               </bibl>
+               <p>In having nothing, I have all things, becauſe I have Chriſt; having there<g ref="char:EOLhyphen"/>fore all things in him, I ſeek no other Reward, for he is the <g ref="char:V">Ʋ</g>niverſal Reward.</p>
+            </q>
+            <p>Publiſhed by ſpeciall Authority.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. Wood,</hi> for <hi>G. Horton,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118654:2"/>
+            <head>A Sermon preached by Mr. JENKINS at Mary Aldermanbury: being the firſt Sermon he preached ſince his Releaſement from the Tower of <hi>London.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>DEUT. 32. VERS. 10. Later part of the Verſe.</hi>
+                  </bibl>
+                  <p>He found him in a deſart Land; and in the waſte howling Wilderneſs; he led him about, he inſtructed him, he kept him as the apple of his eye.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>MOſes</hi> that man of God, being about to leave the World, beſtows his Le<g ref="char:EOLhyphen"/>gacies on his friends that were about him; and it is a bleſſed thing indeed, when we come to die, to have that liberty of Heart and Spirit, that we may be benefactors to others, and not to have Oyl onely for our own Lamps, but to have ſome alſo for our friends. The Song that <hi>Moſes</hi> here made was for to ingage the people of God more ſtrongly and firmly unto God; for thoſe men that are unprofitable perſons they dye whileſt they live; but the children of God that live to God, live when they dye; nay they live after Death. There are in this Text three things conſiderable.</p>
+            <p>Firſt, The great proneſs and readineſs of the people of God, to apoſtatize from him on all occaſions; as you may ſee at large in the ſix firſt verſes of this Chapter.</p>
+            <p>Secondly, By way of ingageing them to ſtedfaſtneſs to God: he not onely tells them of the proneſs of their hearts to fall away from God, but ſhews them alſo the goodneſs of God in keeping and preſerving them from apoſtatizing from him in the next nine verſes, <hi>Deut.</hi> 32.7, 8, 9, 10, 11, 12, 13, 14, 15.</p>
+            <p>Thirdly, He alſo layes down the Denunciation of the Judgments of God againſt thoſe that do apoſtatize from him, in the following part of the Chapter.</p>
+            <p>I ſhall ſpeak of the ſecond thing, and that is the goodneſs of God to his <hi>Iſrael,</hi> which he ſets out ſeveral wayes, but more eſpecially in the Text, which is two wayes.</p>
+            <p>Firſt, His directing <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Secondly, His protecting Goodneſs to his people. 1 His directing Goodneſs, he hedgeth them about, he keepeth them, and inſtructeth them, ſaith the ſpirit of God, 'tis moſt properly underſtood, <hi>Gods</hi> hedging them about in all their journeys, and occaſi<g ref="char:EOLhyphen"/>ons, he is a Cloud by Day, and a Pillar of Fire by night to guide them, he is their God and Guide. 2 God inſtructed them, and that two wayes.</p>
+            <p>Firſt, he taught them to ſee the wickedneſs of their own hearts, by the goodneſs of his wayes; he watred them and gave them water out of the Rook, and gave them bread from Heaven.</p>
+            <p>Secondly, He inſtructed them in the Laws of God in the Wilderneſs, as it is ſaid, <hi>There was none like</hi> Jacob <hi>who had all the Statutes of God.</hi>
+            </p>
+            <p>Thirdly, The Spirit of God doth not ſet out his goodneſs to his people by directing them onely, but by protecting them alſo; as in the later part of the Text which I ſhall principally inſiſt on at this time.</p>
+            <pb n="2" facs="tcp:118654:2"/>
+            <p>Firſt, for explication, out of which, I ſhall draw ſome proper inferences for your own benefit. 1 <hi>He kept them as the apple of his eye:</hi> Here you may ſee the great love and goodneſs of God in preſerving his people, as you may ſee in that devouring Wilder<g ref="char:EOLhyphen"/>neſs which the <hi>Iſraelites</hi> were in, where the red Sea was before them, and <hi>Pharoah</hi> with an Army behind them, and ſo many furious Beaſts in the Wilderneſs round about them, ready to devour them; yet their God preſerved them, and kept them as tender as the Apple of his eye.</p>
+            <p>Now for application, there are three things.</p>
+            <p>Firſt, Why the Church of God may be compared to the Apple of his eye.</p>
+            <p>Secondly, Why doth the care of God extend it ſelf to <hi>Iſrael,</hi> as the care of the Ap<g ref="char:EOLhyphen"/>ple of the eye.</p>
+            <p n="3">3 God will expreſs his care to <hi>Iſrael,</hi> as men do expreſs care to the Apple of their eye.</p>
+            <p>Firſt, The Church of God may be compared to the Apple of the eye.</p>
+            <p>Firſt, Becauſe of its meanneſs and ſmall eſteem it hath in the World; ſo the Apple of the eye is the ſmalleſt part, and of as little eſteem as any part of the whole body: What? the Apple of the eye? that's a very mean part indeed; and the Apple of the eye by reaſon of its ſmallneſs, is called in the <hi>Hebrew,</hi> the little man in the eye.</p>
+            <p>Secondly, The Church of God is final in its own account, it accounts of it ſelf but lowly, for there is no high ſelf-advancing ſoule enters into the Kingdom of God.</p>
+            <p n="1">1. Tis ſmall and low in the account of wicked men, nay of the godly men them<g ref="char:EOLhyphen"/>ſelves, tis ſmall alſo in compariſon of the few that go to Heaven, and the number that run headlong to Hell, there goes but here one and there one, but one of a Family, and two of a Tribe, but there are many that run into the Gulf of everlaſting perdition.</p>
+            <p n="2">2. Tis mean in regard of its blackneſs; for it is continually in mourning, and it is black and black all over with natural corruption, and black with original impuri<g ref="char:EOLhyphen"/>ty, and black with actual Rebellion againſt God, and black with the adverſity of its condition here, as well as in regard of its diſpoſition, by reaſon of perſecution: this is the perpetual habit and condition of the Church of God, as long as it is on this ſide Chriſt; it is called <hi>Nigerrimus occulus ſicculus,</hi> as long as ſhe is without her Saviour, ſhe is defiled with much corruption, and will never lay off her mourning apparel, till ſhe arrives at the beauty of Eternity.</p>
+            <p>Thirdly, the apple of the eye, tis mean by reaſon of the hiding of it felf, tis not al<g ref="char:EOLhyphen"/>wayes ſeen: ſo the Church of God is not alwayes viſible by reaſon of its external condition or proſperity, as the goodneſs of God to his enemies is no token of their being a true Church, ſo neither are the corrections of God to his people any token of Gods anger againſt his Church.</p>
+            <p>And the people of God are reſembled to the Apple of the eye.</p>
+            <p n="1">1. In regard of their not appearing in themſelves to others, their life is hid in God, but when he who is their life ſhall appear, then ſhall they alſo appear with him in glory, they are ſeparated from the world, as the grane is ſeparated from the chaffe.</p>
+            <p>Secondly, there is a reſemblance, between the Apple of the eye, and the Church, in regard of the receptivity of light for the whole Body, the light of the body is the eye, it directs the whole man, it keeps him from ſtumbling and falling, and by that he ſees to do the work which he hath; The Church of God is the Lanthorn and Candle of Gods Ordinances, its the pillar of truth, as it is there called, becauſe it holds forth a pillar whereon God is pleaſed to hang on the Proclamation of his truth, in which <hi>he ſheweth his word unto</hi> Jacob, <hi>his Statutes and his Judgements to</hi> Iſrael: All the world be<g ref="char:EOLhyphen"/>ſide ſits in darkneſs, and therefore may well be filled with violence.</p>
+            <pb n="4" facs="tcp:118654:3"/>
+            <p>Thirdly, in regard of its tenderneſſe and weakneſſe: what more tender then the Apple of the eye? do but touch it, and it hurts it; yet you ſee ſuch things as are moſt tender are moſt fruitfull; ſheep are very weak, let but one Wolf in amongſt them, and he will devour many, yet they are very fruitfull; ſo worms are very weak and contemptible Creatures, though there be thouſands of them killed, yet ſtill there are abundance: though they are contemptible and weak, yet they are increaſing creatures. So the people of God, though they are weak and undervalued, yet they are an increaſing people, and ſhall not be deſtroyed, becauſe all their ſtrength is in another. Fourthly, There is a reſemblance between the Apple of the eye, and the People of God, in regard of the dearneſſe and care a man hath of the Apple of his eye; there is no part of the body ſo dear to a man as that; he had rather loſe any limb of the body then ſuſtain one prick with a pin in the eye. And indeed ſo are the Churches of God dear and precious in the ſight of Chriſt, he hath a great care over them further ſaith he, <hi>Of all thoſe thou haſt given me, I have not lost one.</hi> The People of God are very dear to him. <hi>Sampſon</hi> when he loſt his eyes, it made him deſire God that he might be avenged of the <hi>Philiſtines; And</hi> Sampſon <hi>called unto the Lord and ſaid, O Lord God remember me I pray thee, and ſtrengthen me only this once, O God, that I may be once avenged of the Philiſtines for my two eys.</hi> God will not ſuffer his people to be wronged. 2 Wherein is Gods care to his Church, expreſt as men expreſſe care to the Apple of their eyes, in theſe following Conſiderations.</p>
+            <p>Firſt, His <hi>Cura protectionis,</hi> his care of protecting them, is manifeſted to his Church and People, as the care of mans protection to the Apple of his eye; <hi>He watcheth and keepeth</hi> Iſrael <hi>which neither ſlumbers nor ſleepeth.</hi> There is a two fold Gift that God beſtoweth on the eye, which likewiſe may be ſaid he beſtoweth on his Church.</p>
+            <p>Firſt, Inward protection. Secondly, Outward protection and more Formal.</p>
+            <p>Firſt, Inward protection God beſtows on the eye, which are of divers ſorts, and do much preſerve the eye. So God beſtows inward protection, which is ſtrength of heart to bear their afflictions; <hi>I can do all things through Chriſt that ſtrengthens me,</hi> ſaith the Apoſtle: and again <hi>Strengthened with all might according to his glorious power unto all patience and long ſuffering with joyfulneſs;</hi> this is inward protection when being weak we are made ſtrong.</p>
+            <p>Secondly, God gives the eye Outward protection, which may be alſo ſaid to be given to his people, and that in ſeveral reſpects. Firſt, In regard of the Eye lid, and the hairs of it, which defends it, and keeps it from danger. Secondly, Eye brow: ſo alſo there's a kind of Trench to take in the water, that it may not offend it. Thirdly, The Armes to be lifted up to defend it, and to apply a remedy to it. So firſt, Sometimes God is as the eye lid to the eye, he warns his people of dangers to come, that ſo they touch not his Church or people. Secondly, When dangers do fall on his Church he protects them ſo, that they do not break them in pieces, it may be they bruiſe them a little, as the eye brow is black and blew, but it touches not the Ap<g ref="char:EOLhyphen"/>ple of the eye. Thirdly, Sometimes God gives his people Hands and Arms to defend them againſt the enemies of his Church.</p>
+            <p>Secondly, In regard of his care of protecting his people, and compaſſion to them, he is as tender of them as a mother is of her ſucking child. <hi>Can a woman forget her ſucking child, that ſhe ſhould not have compaſſion on the ſon of her womb; yea ſhe may forget, yet will I not for<g ref="char:EOLhyphen"/>get thee,</hi> ſaith the Lord: and again, <hi>In all their afflictions he was afflicted, and the Angel of his preſence ſaved them in his love and in his pity, he redeemed them, and he bare them, and he carried them all the days of old.</hi> It is between God and his Church as between two Lute. ſtrings that are tuned one to another, no ſooner one is ſtruck but the other trembles: Such a Sympathy there is between Chriſt and his people, <hi>Saul, Saul, why perſecuteſt thou me,</hi> ſaith our Saviour? and the children of God will be ſo when their brethen are perſecuted and affli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>.</p>
+            <pb n="5" facs="tcp:118654:3"/>
+            <p>Thirdly, In regard of a Senative and healing care God hath of people, whereby he labours to heal the wounds of his people: <hi>Come let us return unto the Lord, for he hath torn, and he will heal, he hath ſmitten, and he wil bind us up.</hi> If there lie any wounds in thy body, or in thy eſtate, or in thy name, or in thy ſpirit, God wil pour Oyl into thy wounds, and will heal and re<g ref="char:EOLhyphen"/>cover thee. 4 There is a vindicating care in God to his people; he will wound thoſe that wound his Church: As in the old Law, there was taken an eye for an eye, and a tooth for a tooth; ſo now, God will have a retalliation of puniſhment. And although he forbear long, yet he will avenge himſelf on the enemies of his Church; and the longer he ſtays, the more uſe he requires, <hi>For he that toucheth you, toucheth the Apple of his eye:</hi> as if he ſhould have ſaid, he that touch<g ref="char:EOLhyphen"/>eth my people, had as good put out his own eye, he doth but make a halter for his own neck, he doth not onely that which is a vain thing, but he ſhoots up arrows againſt heaven, and they fall down upon his own head. Thirdly, Why GOD expreſſeth ſuch great care to his people, as men expreſs care to the Apple of their eye, here is three things to be conſidered,</p>
+            <p>Firſt, Conſider what the Apple of the eye is in it ſelf.</p>
+            <p>Secondly, Conſider what other things are to the Apple of the eye.</p>
+            <p>Thirdly, Conſider, what the Apple of the eye is to God.</p>
+            <p n="1">1 What is it in it ſelf, it is an exceeding weak and low thing, not able to endure a blow, 'tis very tender. So the people of God are in themſelves very weak and low, and when none are able to do good for them, then God ariſes and appears to help them: <hi>When God ſees the Oppreſſion of the poor and needy, then will he ariſe, and ſet them at liberty,</hi> ſaith the <hi>Pſalmist;</hi> and in another place, <hi>Who remembreſt us in our low eſtate for thy Mercy endureth for e<g ref="char:EOLhyphen"/>ver.</hi> As it is with a Ball, the higher it ariſeth, the harder it is ſtricken; ſo the higher the Enemies of God act againſt his People and Church, the harder will their puniſhment be: God will defend them.</p>
+            <p>Secondly, What other things are to the Apple of the eye, they are annoyance to it, let but the leaſt ſand that is get into the eye, and it troubles and hurts it, or never ſo ſmall a peble ſtone touch the eye, and it offends it; nay, the very wind offends it if it blows but into it, and the Sun it ſelf is a great annoyance to it. So the Devil, that great enemy of Gods Church, is continu<g ref="char:EOLhyphen"/>ally ſeeking wayes and means to offend Gods people, ſo that the Church of God is another <hi>Meſopotamia.</hi>
+            </p>
+            <p>Again, they are very hurtfull to the people of God, their hate is implacable againſt them: <hi>Ar<g ref="char:EOLhyphen"/>rians</hi> agree with Heathens, and Sectaries agree better with Heathens then with the people of God, becauſe their ends are deſtructive to them; yet for all this God he keeps them as tender as the Apple of his eye; I have intereſt in thee, ſaith God. <hi>Pſal.</hi> 119. <hi>v.</hi> 94. thou art mine, and <hi>I am thine;</hi> we are his by Election, he hath elected us to all eternity; we are his by donation alſo, God hath given us to him; we are his too by purchaſe, he hath laid down the price of the rich<g ref="char:EOLhyphen"/>eſt Pearl, <hi>Iohn</hi> 7.6. he hath laid down his deareſt Bloud for his people, he hath bought them with a price; and we are his likewiſe by ſtipulation, he hath entred into Covenant for to pro<g ref="char:EOLhyphen"/>tect and defend us, <hi>Ezek.</hi> 16.6. and protection (you know) draws Legions after one.</p>
+            <p>Laſtly, we are his in regard of habitation, and alſo in point of participation, you know a man regards his own, and cares not for anothers; ſo if a woman ſee another womans child crying, or tumbling in the dirt, why (ſaith ſhe) that is none of my child, mine is in mine arms, ſhe doth not at all regard it: So ſay ſome, 'tis very ſtrange that God ſhould in the Scripture, <hi>Gen.</hi> 31. ſet down the ſtory of <hi>Iacob,</hi> a poor countrey-man, that he had a few ewes and lambs, ring-ſtreak<g ref="char:EOLhyphen"/>ed and ſpotted, and to take no notice of the actions of the great Emperours of the world, this ſeems very ſtrange to ſome, but this ſhews the great love and eſtimation he bears to his own people. Thus much ſhall ſerve for explication. Secondly, For Information.</p>
+            <pb n="5" facs="tcp:118654:4"/>
+            <p>Firſt, to take notice of the great malice of the enemies of God, and adverſaries of Chiſt, that they will be content with nothing but the Apple of Gods eye, which is his people, and by how much the more they bear the image of their Father in their faces, ſo much the more vehemently do wicked men hate them, as it is with a Traytor, that is eſcaped out of the Countrey where he committed the Treaſon; yet if they can but get his picture they burn it, ſo the enemies of Chriſt, rend and tear his Church and People, or any that are like them.</p>
+            <p>Secondly, Herein you may ſee the great Patience of God in induring and ſuffering to have his tender eye plucked at, but indeed though it be ſtrange to us, yet he manifeſteth himſelf to to be as great a God in ſparing the enemies of his Church as in puniſhing them, for none but God could keep their hands from them. But he is God and not Man, therefore ſhall the ſeed of the Serpent be deſtroyed: we think it tedious to let our enemies ride on our backs a few years, but conſider the year of recompence is to come, his forbearance is no part of payment, God he is the greateſt Martyr in the world, he ſuffers continually in regard of the ſimilitude which is between him and his Members, ſhould he but give one ſlip of hand, they would fall into hell yet he upholds them, he cauſeth the Sun to ſhine on the juſt and on the unjuſt, he let<g ref="char:EOLhyphen"/>teth the rain water their habitations. Yet this is no argument of his love to them, therefore let us ſubmit our ſelves to the good will and pleaſure of God.</p>
+            <p>Thirdly, Another reaſon why God ſuffers his Church and people to be ſo weak is; becauſe his care may be the more ſeen in protecting them, and delivering them, that it may be ſeen to be done by the power of God and not of Man.</p>
+            <p>Fourthly, God is wonderfully provoked by his people, when he ſuffereth his eye to be pulled out by wicked men. Conſider therefore if thy eye, hath not been a wanton and a proud eye, if it had not God would never have done ſo. If one drop of Gall could poſſibly make a ſtream of honey bitter and loathſome: So one ſin is enough to make God very angry with his people. Oh! 'tis a very vile thing of his people to ſin againſt him; he will chaſtiſe them with the Sword and Rod of Man.</p>
+            <p>Fifthly, Hereby you may ſee the great miſery of thoſe that have no ſhelter to help them: men that have no intereſt in God, he caſts them off from his care; he hath as great a care of the Devils, he caſts them off by ſix and ſevens: But God beſtowes a gra<g ref="char:EOLhyphen"/>cious preſervation to his people, he keepeth them to his everlaſting Kingdom. <hi>Having promiſe of the life that now is, and that which is to come,</hi> 1 <hi>Tim.</hi> 4.8. The wicked they are pre<g ref="char:EOLhyphen"/>ſerved too: but how? as men are kept in priſon till the day of execution come. Think of this I beſeech you that have no intereſt in God, that he taketh no care of you: A woman when ſhe ſees anothers child crying, takes no care as long as ſhe ſees her own quiet in her arms. And ſo a man is not much taken with the hearing of a fire that hap<g ref="char:EOLhyphen"/>peneth ſome 20 miles off, ſo long as his own houſe is free, he regardeth not another mans. So its with God, They are none of my people (ſaith he) let them go on: Gods Mercies to the Wicked are avenging Mercies: Thus much ſhall ſerve for Information.</p>
+            <p>Secondly, Now for Exhortation, ſeverall leſſons:</p>
+            <p>Firſt, by way of Duty: If the people of God be as dear to him as the apple of his eye, then let God be as dear to you as the apple of your eye, God in his Ordinances, God in his Miniſters, God in his Servants, <hi>God</hi> in his glory. Say, Lord he that toucheth theſe toucheth the apple of thine eye; not becauſe they are mine enemies Lord, but becauſe they are thy enemies: Lord if thy honour be any wayes impaired, then the apple of mine eye is pricked: doth any of you do this? Do any of you lay the ſufferings of Chriſt to heart? You ſhould mourn and weep at theſe things as if the apple of your eye were hurt: when you ſee <hi>God</hi> ſuffer by Hereſies, Blaſphemies, and Prophaneſſe, you ſhould lay your ſins alſo to heart, and ſay; Lord, when I ariſe up in the morning I ſin
+<pb n="5" facs="tcp:118654:4"/>againſt thee, and when I lie down I offend thee; every corruption ſhould be as a Thorn in your Foot, or as a Thorn in your Eye, this is a gracious temper of a truly humble heart; 'twill ſay, <hi>Lord who will deliver me from this Body of ſin.</hi>
+            </p>
+            <p>Secondly, By way of Exhortation, pleaſe not your ſelves in your bodily protection; do not onely give <hi>God</hi> the Casket of your body, but give him thy ſoul, fling it into the Arms of Chriſt, and commit thy ſoul to him as to thy faithfull Creator: Say as our Saviour did: <hi>'Tis a great honour for a man to be Protector to a Kings ſon; but who will regard the Protectorſhip of a Beggars ſon:</hi> give thy ſoul into the hands of <hi>God,</hi> he is willing to re<g ref="char:EOLhyphen"/>ceive it, and ſay, <hi>Lord, keep my ſoul, that my ſoul may not offend thee in ſinning.</hi>
+            </p>
+            <p>Thirdly, labour to bring others under the keeping of <hi>God,</hi> if he be ſuch an excellent Keeper; ſay to him: <hi>Lord keep thou my husband, keep thou my wife; Lord, keep thou my child, keep thou my Father, keep thou my Mother:</hi> You know it is a very ſad complaint of many in the world, that they have not money where with all to keep them; but it is a far ſad<g ref="char:EOLhyphen"/>der complaint not to have a <hi>God</hi> to keep them: that is very ſad indeed.</p>
+            <p>Fourthly, If <hi>God</hi> doth promiſe to keep thee, do not leave intreating him; let it be thy daily prayer to Chriſt Jeſus to keep thee daily. The prodigall ſon was never better then when he lived with his Father; 'twas better he thought to be one of his Fathers ſervants, then to leave him; the Saints and ſervants of <hi>God:</hi> their work-day is better then the ſinners Holy-day.</p>
+            <p>Fifthly, for ſome good Directions. Let it be the chief ſtudy of the people of <hi>God</hi> to be brought under this care of <hi>God,</hi> that he may be their Keeper. Firſt, be ſure you be <hi>Gods,</hi> every man loves that which is his own, ſo doth <hi>God</hi> love his own people. <hi>And they ſhall be mine, ſaith the Lord of Hosts, in that day that I make up my fewels; and I will ſpare them, as a man ſpareth his own ſon that ſerveth him.</hi> We muſt not be <hi>Gods</hi> onely in a viſible profeſſion, but in a reall Implantation: I know in viſible profeſſion every one will be <hi>Gods;</hi> but that is not enough to be his in regard of outward compliance onely, but you muſt be his by inward alliance, to kill ſin, as well as to ſave your ſoul. If a man have a wooden leg or a glaſs eye he values not a blow on his leg, or a prick in his eye: So a man muſt not be viſibly Chriſts only, but muſt change his nature, and be at union with him, and he muſt take Chriſt for his Saviour and Lord, he muſt be Chriſts own if he expect mer<g ref="char:EOLhyphen"/>cy by him. Secondly, Be ſure that you be weak in your own eſteem, the apple of the eye is weak, therefore ther's the eye-lid to defend it from harm: ſelf-diffidence is ſelf-downfall; it is the humble Chriſtian that lies down in his own apprehenſion that ſtands before <hi>God</hi> longeſt.</p>
+            <p>Thirdly, Be wary of all places and occaſions that may hurt you, for when you go into the way of temptation and ſin, you do put your ſelf out of Gods protection, tis neither Gods way nor thy way.</p>
+            <p>Fourthly, Labour to reſt quietly in thy protection, confide there: They truſted in the Lord, therefore he defended them, the people of God muſt depend on him in troubleſome times, and then they will never be in trouble, they muſt commit their ſouls to God, as into the hands of a faithful Keeper; and then the greateſt hurt their enemies can do to them will prove their greateſt good, though they may take away your head, yet they cannot take away your heart.</p>
+            <p>Laſt of all, reſt on God. And there reſt until his wrath be over. I coulſt here make a Sermon only of the deliverances God hath vouchſafed us of this Kingdom. And I could ſhew you how we were once as the Apple of Gods Eye, in weakneſs and black<g ref="char:EOLhyphen"/>neſs, and in having dangerous Enemies, and they many and hurtful; and how God hath been pleaſed to beſtowe on us his protecting care, his compaſſionate care, his
+<pb n="8" facs="tcp:118654:5"/>vindicating care: For all which let us give God the glory of our praiſes, praiſe him with your tongue, praiſe him with your hearts, praiſe him with your lips. God ſaith, the <hi>Lyons</hi> ſhall die for hunger, but Gods people ſhall not want: therefore let us not neglect the mercies of God, and regard every light affliction; let us rejoyce in the ſight of God, and bleſſe and praiſe his name for all his mercies, it is not with the Devills good will that we have another fifth of <hi>November;</hi> for as heretofore he laboured to de<g ref="char:EOLhyphen"/>ſtroy us by the <hi>Papiſts,</hi> ſo now he doth his endeavour to do it by Hereſies, and filthy blaſphemies againſt the name of <hi>God,</hi> but the praiſes of his people are the tributes which <hi>God</hi> expects: I ſay, again let us praiſe <hi>God</hi> with our Tongues, Hands and Hearts, Let the praiſes of <hi>God</hi> be ſeen in our converſing on what <hi>God</hi> hath done for us.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <head>An Apologie to the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>ENtring into a ſerious conſideration of publiſhing this Sermon, and conſidering with my ſelf, the great benefit that may redound to the Church and people of God by it, and ſuppoſing that the Authour thereof would not publiſh it, I have adventured to make it publick; for by this means, that which was delivered then only to a few, by the publiſhing of it, Multitudes may be built up to a higher degree, of ſtedfaſtneſs and reſolution in God, who hath ſuch a tender fatherly care over his people, and indeed it is very uſeful for theſe back-ſliding times wherein we live, where it is ſo common a thing, for men to fall off from Gods care and protection, and to reſt wholly in the ſtrength of men. And although God doth hold forth himſelf ſo comfortably in his holy word, unto his people, that he will be their God and guide, to direct and protect them in all their wayes, and doth promiſe them, (as is ſhewn in this portion of Scripture, which is here handled) to be their instructer and protector, and will keep them as tender as the apple of his eye: yet to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhame be it ſpoken, we are ſo apt to apoſtatize from God, that we ſet light by his Fatherly tenders and proffers unto us. And indeed one of the chiefeſt ends and purpoſes in making this Sermon publick was, that both thou and I, and all the people of God, may ſo read and make uſe of this Sermon, that we may ſee plainly, that too too common errour of moſt men, in falling off from the protection of God, who is ſo loving to us, and that we may learn to reſt with confidence (in him, and in him only) of his pro<g ref="char:EOLhyphen"/>tection in all our adverſities, and I hope that many of the Generation of thoſe that ſeek Gods face, and favour here on earth ſhall find this Sermon, if rightly uſed, ſome help to keep them ſtedfaſt to God; you know that many and wonderful have the mercies of God been in preſerving his Church and people, as he hath done by preſerving us from that helliſh Powder-plot, beſides many other mercies and deliverances he hath beſtowed on us, at ſundry other times. O then let us not forget theſe his deliverances beſtowed on us, let them not be beſtowed in vain, but labour to requite theſe his loving kindneſſes, and labour to abound more and more in every work towards God. In this ſhort Sermon you may find many comforts, if you live in dangerous places, or perſeeuting times, here is great comfort for you, God ſtill keeps you as the Apple of his eye: here you may ſee the danger thou runneſt into by apoſtatizing from God. To be ſhort, this Sermon affords variety of comfort, you may ſee alſo the protecting, directing, compaſſing, and preſerving care God hath of his people, whereby you may be incouraged to a more chearfull dependance on him. Reader, let me deſire thee to read it over, and meditate ſeriouſly on what thou readeſt, and thou maiſt reap benefit by it, fru<g ref="char:EOLhyphen"/>strate not the Authours intent, who when he preached it intended the benefit of his Hearers, and give God the glory of all; And whereas divers had a deſire to peruſe it, but complained it was too dear, for their ſakes I have publiſhed this ſheet; deſiring thee to paſſe by the errours in it, and at<g ref="char:EOLhyphen"/>tribute them to the Printers, and to me, and not any way to the reverend Authour; and in ſo doing, you ſhall obliege him unto you on the like occaſion, who eſteemeth himſelf to be a Servant, to the Servants of God, in Chriſt Jeſus,</p>
+            <closer>
+               <signed>G. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
